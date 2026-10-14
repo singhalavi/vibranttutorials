@@ -1,0 +1,2979 @@
+[
+  {
+    "id": "A1-001",
+    "subtopic": "A1",
+    "spec_ref": "4.1.1.1",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which statement correctly distinguishes an element from a compound?",
+    "choices": [
+      "An element contains one type of atom, whereas a compound contains atoms of different elements chemically bonded.",
+      "A compound always contains only one type of atom.",
+      "An element can be separated into simpler substances by filtration.",
+      "A compound is always a mixture."
+    ],
+    "answer_index": 0,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "An element contains one type of atom, whereas a compound contains atoms of different elements chemically bonded."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A2-001",
+    "subtopic": "A2",
+    "spec_ref": "4.1.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "A sample contains sand, water and dissolved sodium chloride. Describe why the sample is a mixture and state one physical method that could separate the sand.",
+    "answer_text": "The substances are not chemically bonded to each other, so the sample is a mixture. Filtration can separate the sand.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The substances are not chemically bonded to each other."
+      },
+      {
+        "mark": 1,
+        "point": "Filtration can separate the sand."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A3-001",
+    "subtopic": "A3",
+    "spec_ref": "4.1.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why the nuclear model replaced an earlier model in which positive charge was spread throughout the atom.",
+    "answer_text": "Scattering evidence showed that positive charge and most of the mass are concentrated in a tiny nucleus, with most of the atom being empty space.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Scattering evidence showed that positive charge/mass is concentrated in a small central nucleus."
+      },
+      {
+        "mark": 1,
+        "point": "Most of the atom is empty space."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A4-001",
+    "subtopic": "A4",
+    "spec_ref": "4.1.1.4",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which subatomic particle has relative charge +1?",
+    "choices": [
+      "Electron",
+      "Neutron",
+      "Proton",
+      "Nucleus"
+    ],
+    "answer_index": 2,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Proton"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A5-001",
+    "subtopic": "A5",
+    "spec_ref": "4.1.1.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "State",
+    "type": "short",
+    "stem": "An atom has a diameter of about 1.0 × 10⁻¹⁰ m. State the approximate diameter of its nucleus if the nucleus is about 100 000 times smaller.",
+    "answer_text": "Approximately 1.0 × 10⁻¹⁵ m.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Approximately 1.0 × 10⁻¹⁵ m"
+      },
+      {
+        "mark": 1,
+        "point": "Correct use of the scale factor"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A6-001",
+    "subtopic": "A6",
+    "spec_ref": "4.1.1.6",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A sample contains 75% atoms of isotope X-35 and 25% atoms of isotope X-37. Calculate the relative atomic mass of X.",
+    "given": {
+      "abundance_X35": 75,
+      "mass_X35": 35,
+      "abundance_X37": 25,
+      "mass_X37": 37
+    },
+    "equation": "Ar = ((abundance1 × mass1) + (abundance2 × mass2)) / total abundance",
+    "expr": "(75*35 + 25*37)/100",
+    "answer": {
+      "value": 35.5,
+      "unit": "",
+      "sig_figs": 3,
+      "tolerance": 0.1,
+      "computed": 35.5
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Weighted mean calculated using isotope abundances"
+      },
+      {
+        "mark": 1,
+        "point": "35.5"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A7-001",
+    "subtopic": "A7",
+    "spec_ref": "4.1.1.7",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which electronic structure represents an atom of chlorine?",
+    "choices": [
+      "2,8,1",
+      "2,8,7",
+      "2,7,8",
+      "2,8,8"
+    ],
+    "answer_index": 1,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "2,8,7"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A8-001",
+    "subtopic": "A8",
+    "spec_ref": "4.1.2.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain how the position of an element in the periodic table is linked to its atomic structure.",
+    "answer_text": "For main-group elements, the group is linked to the number of outer-shell electrons and the period is linked to the number of occupied electron shells.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The group number is linked to the number of electrons in the outer shell for main-group elements."
+      },
+      {
+        "mark": 1,
+        "point": "The period number is linked to the number of occupied electron shells."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A9-001",
+    "subtopic": "A9",
+    "spec_ref": "4.1.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain one advantage of arranging elements by atomic number rather than atomic mass.",
+    "answer_text": "Atomic number is unique to each element, and arranging by it produces groups with consistent chemical properties.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Elements with similar chemical properties fall into consistent groups."
+      },
+      {
+        "mark": 1,
+        "point": "Atomic number corresponds to proton number and is unique for each element."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A10-001",
+    "subtopic": "A10",
+    "spec_ref": "4.1.2.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Compare",
+    "type": "short",
+    "stem": "State one typical property of metals and one typical property of non-metals.",
+    "answer_text": "Metals are generally good electrical conductors; non-metals are generally poor electrical conductors.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Valid metal property such as good electrical conductivity."
+      },
+      {
+        "mark": 1,
+        "point": "Valid non-metal property such as poor electrical conductivity."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A11-001",
+    "subtopic": "A11",
+    "spec_ref": "4.1.2.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why Group 0 elements are generally unreactive.",
+    "answer_text": "Their outer electron shell is full, so they have little tendency to gain, lose or share electrons.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Their outer electron shell is full."
+      },
+      {
+        "mark": 1,
+        "point": "They have little tendency to gain, lose or share electrons."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A12-001",
+    "subtopic": "A12",
+    "spec_ref": "4.1.2.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "Predict how the reactivity of Group 1 metals changes down the group and explain why.",
+    "answer_text": "Reactivity increases down the group because the outer electron is further from the nucleus and more shielded, so it is easier to remove.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Reactivity increases down the group."
+      },
+      {
+        "mark": 1,
+        "point": "The outer electron is further from the nucleus/more shielded and is easier to remove."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A13-001",
+    "subtopic": "A13",
+    "spec_ref": "4.1.2.6",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why the reactivity of Group 7 elements decreases down the group.",
+    "answer_text": "Reactivity decreases because the atoms become larger and shielding increases, reducing attraction for an incoming electron.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Atoms become larger/more electron shells are present."
+      },
+      {
+        "mark": 1,
+        "point": "The attraction between the nucleus and an incoming electron decreases, making electron gain harder."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A14-001",
+    "subtopic": "A14",
+    "spec_ref": "4.1.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Compare",
+    "type": "short",
+    "stem": "Compare the trend in reactivity down Group 1 with the trend down Group 7.",
+    "answer_text": "Group 1 becomes more reactive down the group, whereas Group 7 becomes less reactive.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Group 1 reactivity increases down the group."
+      },
+      {
+        "mark": 1,
+        "point": "Group 7 reactivity decreases down the group."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "A15-001",
+    "subtopic": "A15",
+    "spec_ref": "4.1.3.2",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which is a typical property of many transition metals?",
+    "choices": [
+      "They are all gases at room temperature.",
+      "They form coloured compounds.",
+      "They all have one electron shell.",
+      "They are always less dense than water."
+    ],
+    "answer_index": 1,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "They form coloured compounds."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B1-001",
+    "subtopic": "B1",
+    "spec_ref": "4.2.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "State",
+    "type": "short",
+    "stem": "State the three types of strong chemical bonding studied at GCSE.",
+    "answer_text": "Ionic, covalent and metallic bonding.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Ionic and covalent bonding."
+      },
+      {
+        "mark": 1,
+        "point": "Metallic bonding."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B2-001",
+    "subtopic": "B2",
+    "spec_ref": "4.2.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain how an ionic bond forms between a sodium atom and a chlorine atom.",
+    "answer_text": "Sodium transfers one electron to chlorine, forming Na+ and Cl− ions that attract each other electrostatically.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Sodium transfers one electron to chlorine."
+      },
+      {
+        "mark": 1,
+        "point": "Oppositely charged Na+ and Cl− ions attract electrostatically."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B3-001",
+    "subtopic": "B3",
+    "spec_ref": "4.2.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why solid magnesium oxide has a high melting point.",
+    "answer_text": "Magnesium oxide has a giant ionic lattice with strong electrostatic attractions between oppositely charged ions.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It has a giant ionic lattice."
+      },
+      {
+        "mark": 1,
+        "point": "Strong electrostatic attractions between oppositely charged ions require much energy to overcome."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B4-001",
+    "subtopic": "B4",
+    "spec_ref": "4.2.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "Describe covalent bonding in a molecule of chlorine, Cl₂.",
+    "answer_text": "The two chlorine atoms share a pair of electrons, and the shared pair is attracted to both nuclei.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The two chlorine atoms share a pair of electrons."
+      },
+      {
+        "mark": 1,
+        "point": "The shared pair is attracted to both nuclei."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B5-001",
+    "subtopic": "B5",
+    "spec_ref": "4.2.1.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why metals can conduct electricity when solid.",
+    "answer_text": "Metals contain delocalised electrons that can move through the structure and carry charge.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Metals contain delocalised electrons."
+      },
+      {
+        "mark": 1,
+        "point": "The electrons can move through the structure and carry charge."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B6-001",
+    "subtopic": "B6",
+    "spec_ref": "4.2.2.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Compare",
+    "type": "short",
+    "stem": "Describe how particles are arranged and move differently in a liquid compared with a solid.",
+    "answer_text": "Liquid particles are close together but are not fixed in position and can move past one another.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Liquid particles are close together but not in fixed positions."
+      },
+      {
+        "mark": 1,
+        "point": "Liquid particles can move past one another."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B7-001",
+    "subtopic": "B7",
+    "spec_ref": "4.2.2.2",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which state symbol represents an aqueous substance?",
+    "choices": [
+      "(s)",
+      "(l)",
+      "(g)",
+      "(aq)"
+    ],
+    "answer_index": 3,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "(aq)"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B8-001",
+    "subtopic": "B8",
+    "spec_ref": "4.2.2.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why an ionic compound conducts electricity when molten but not when solid.",
+    "answer_text": "Molten ions are free to move and carry charge; in the solid they are fixed in the lattice.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Molten ions are free to move."
+      },
+      {
+        "mark": 1,
+        "point": "In the solid, ions are held in fixed positions."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B9-001",
+    "subtopic": "B9",
+    "spec_ref": "4.2.2.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why a small covalent molecule such as methane has a low boiling point.",
+    "answer_text": "Methane molecules have weak intermolecular forces, so relatively little energy is needed to separate them.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "There are weak intermolecular forces between molecules."
+      },
+      {
+        "mark": 1,
+        "point": "Only these weak forces need to be overcome when boiling."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B10-001",
+    "subtopic": "B10",
+    "spec_ref": "4.2.2.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "Describe one structural feature of a polymer that makes it different from a small molecule.",
+    "answer_text": "A polymer contains very long chains made from many repeating units derived from monomers.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It contains very long chains of atoms."
+      },
+      {
+        "mark": 1,
+        "point": "The chains consist of many repeating units/monomers."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B11-001",
+    "subtopic": "B11",
+    "spec_ref": "4.2.2.6",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why diamond is very hard.",
+    "answer_text": "Each carbon forms four strong covalent bonds in a giant three-dimensional structure.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Each carbon atom forms four covalent bonds."
+      },
+      {
+        "mark": 1,
+        "point": "A giant three-dimensional network of strong bonds must be broken to deform it."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B12-001",
+    "subtopic": "B12",
+    "spec_ref": "4.2.2.7",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why adding a small amount of another element can change the properties of a metal.",
+    "answer_text": "Different-sized atoms distort the regular lattice, making it harder for layers to slide.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Different-sized atoms disrupt the regular metal layers."
+      },
+      {
+        "mark": 1,
+        "point": "This makes it harder for layers to slide."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B13-001",
+    "subtopic": "B13",
+    "spec_ref": "4.2.2.8",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why copper is useful for electrical wiring.",
+    "answer_text": "Copper conducts electricity well and is ductile, so it can be drawn into wires.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It has delocalised electrons and conducts electricity well."
+      },
+      {
+        "mark": 1,
+        "point": "It is ductile/malleable so can be drawn into wires."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B14-001",
+    "subtopic": "B14",
+    "spec_ref": "4.2.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why diamond is used in cutting tools.",
+    "answer_text": "Diamond has a giant structure with strong covalent bonds, making it very hard.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Each carbon has four strong covalent bonds."
+      },
+      {
+        "mark": 1,
+        "point": "Its giant structure makes it very hard."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B15-001",
+    "subtopic": "B15",
+    "spec_ref": "4.2.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why graphite can conduct electricity.",
+    "answer_text": "Each carbon contributes a delocalised electron, allowing charge to flow through the layers.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Each carbon bonds to three others, leaving one electron delocalised."
+      },
+      {
+        "mark": 1,
+        "point": "The delocalised electrons can carry charge."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B16-001",
+    "subtopic": "B16",
+    "spec_ref": "4.2.3.3",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which statement about graphene is correct?",
+    "choices": [
+      "It is a single layer of carbon atoms arranged in hexagons.",
+      "It is a giant ionic lattice.",
+      "It contains only isolated carbon atoms.",
+      "It is a metal alloy."
+    ],
+    "answer_index": 0,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It is a single layer of carbon atoms arranged in hexagons."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B17-001",
+    "subtopic": "B17",
+    "spec_ref": "4.2.4.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why nanoparticles can have different properties from the same material in bulk form.",
+    "answer_text": "Their very large surface-area-to-volume ratio means a greater proportion of atoms are at the surface, which can alter properties.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Nanoparticles have a very large surface-area-to-volume ratio."
+      },
+      {
+        "mark": 1,
+        "point": "A greater proportion of atoms are at the surface, affecting properties."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "B18-001",
+    "subtopic": "B18",
+    "spec_ref": "4.2.4.2",
+    "tier": "H",
+    "marks": 3,
+    "command": "Evaluate",
+    "type": "extended",
+    "stem": "A company proposes using silver nanoparticles in a coating to reduce bacterial growth. Give two advantages of using nanoparticles and one consideration about their use.",
+    "answer_text": "Silver nanoparticles can provide strong antibacterial action because of their high surface area, and less material may be needed. Their possible effects on health or the environment should be assessed.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Valid advantage linked to increased surface area or antibacterial action."
+      },
+      {
+        "mark": 1,
+        "point": "Second valid advantage, such as requiring less material for a given surface effect."
+      },
+      {
+        "mark": 1,
+        "point": "Valid consideration such as possible health/environmental risk or need for safety testing."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC1-001",
+    "subtopic": "QC1",
+    "spec_ref": "4.3.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why the total mass is unchanged when a chemical reaction takes place in a closed system.",
+    "answer_text": "Atoms are rearranged but not created or destroyed, so the same total mass remains.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Atoms are rearranged but not created or destroyed."
+      },
+      {
+        "mark": 1,
+        "point": "The same atoms are present before and after the reaction."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC2-001",
+    "subtopic": "QC2",
+    "spec_ref": "4.3.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "Calculate the relative formula mass of CaCO₃. Use Ar: Ca = 40, C = 12, O = 16.",
+    "given": {
+      "Ca": 40,
+      "C": 12,
+      "O": 16
+    },
+    "equation": "Mr = sum of relative atomic masses",
+    "expr": "40+12+3*16",
+    "answer": {
+      "value": 100,
+      "unit": "",
+      "sig_figs": 3,
+      "tolerance": 0.1,
+      "computed": 100
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "40 + 12 + (3 × 16)"
+      },
+      {
+        "mark": 1,
+        "point": "100"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC3-001",
+    "subtopic": "QC3",
+    "spec_ref": "4.3.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "A metal reacts with oxygen in an open container and its measured mass increases. Explain the increase.",
+    "answer_text": "Oxygen from the air has combined with the metal, so the solid product contains additional oxygen atoms.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Oxygen from the air has reacted with the metal."
+      },
+      {
+        "mark": 1,
+        "point": "The oxygen atoms become part of the solid product."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC4-001",
+    "subtopic": "QC4",
+    "spec_ref": "4.3.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Identify",
+    "type": "short",
+    "stem": "State two features of a good quantitative chemical measurement.",
+    "answer_text": "Measurements should be repeatable and made with equipment giving suitable precision/accuracy.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Repeatable/reproducible measurements."
+      },
+      {
+        "mark": 1,
+        "point": "Appropriate precision/accuracy or suitable measuring equipment."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC5-001",
+    "subtopic": "QC5",
+    "spec_ref": "4.3.2.1",
+    "tier": "H",
+    "marks": 3,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "Calculate the amount, in moles, in 9.8 g of sulfur dioxide, SO₂. Use Ar: S = 32, O = 16.",
+    "given": {
+      "m": 9.8,
+      "Ar_S": 32,
+      "Ar_O": 16
+    },
+    "equation": "n = m / Mr",
+    "expr": "9.8/(32+2*16)",
+    "answer": {
+      "value": 0.153,
+      "unit": "mol",
+      "sig_figs": 3,
+      "tolerance": 0.002,
+      "computed": 0.153125
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Mr = 32 + 2(16) = 64"
+      },
+      {
+        "mark": 1,
+        "point": "n = m/Mr = 9.8/64"
+      },
+      {
+        "mark": 1,
+        "point": "0.153 mol (accept within stated tolerance)"
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "QC6-001",
+    "subtopic": "QC6",
+    "spec_ref": "4.3.2.2",
+    "tier": "H",
+    "marks": 3,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "Magnesium reacts with hydrochloric acid: Mg + 2HCl → MgCl₂ + H₂. Calculate the moles of HCl needed to react with 0.30 mol Mg.",
+    "given": {
+      "moles_Mg": 0.3,
+      "ratio_HCl_to_Mg": 2
+    },
+    "equation": "n(HCl) = 2 × n(Mg)",
+    "expr": "2*0.30",
+    "answer": {
+      "value": 0.6,
+      "unit": "mol",
+      "sig_figs": 2,
+      "tolerance": 0.01,
+      "computed": 0.6
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Use the 1:2 mole ratio from the balanced equation."
+      },
+      {
+        "mark": 1,
+        "point": "0.30 × 2"
+      },
+      {
+        "mark": 1,
+        "point": "0.60 mol HCl"
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "QC7-001",
+    "subtopic": "QC7",
+    "spec_ref": "4.3.2.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Balance",
+    "type": "short",
+    "stem": "Balance the equation for the combustion of propane: C₃H₈ + O₂ → CO₂ + H₂O.",
+    "answer_text": "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "3CO₂ and 4H₂O coefficients"
+      },
+      {
+        "mark": 1,
+        "point": "5O₂ coefficient; balanced equation C₃H₈ + 5O₂ → 3CO₂ + 4H₂O"
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "QC8-001",
+    "subtopic": "QC8",
+    "spec_ref": "4.3.2.4",
+    "tier": "H",
+    "marks": 3,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A reaction requires 1 mol of X for every 2 mol of Y. A mixture contains 0.40 mol X and 0.60 mol Y. Which reactant is limiting and how many moles of X can react?",
+    "given": {
+      "moles_X": 0.4,
+      "moles_Y": 0.6,
+      "ratio_X_to_Y": "1:2"
+    },
+    "equation": "n(X reacted) = n(Y)/2",
+    "expr": "0.60/2",
+    "answer": {
+      "value": 0.3,
+      "unit": "mol X",
+      "sig_figs": 2,
+      "tolerance": 0.01,
+      "computed": 0.3
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "0.60 mol Y requires 0.30 mol X."
+      },
+      {
+        "mark": 1,
+        "point": "X is in excess and Y is limiting."
+      },
+      {
+        "mark": 1,
+        "point": "0.30 mol X reacts."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "QC9-001",
+    "subtopic": "QC9",
+    "spec_ref": "4.3.2.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A solution contains 0.50 mol of solute in 2.0 dm³. Calculate its concentration in mol/dm³.",
+    "given": {
+      "n": 0.5,
+      "V": 2.0
+    },
+    "equation": "c = n / V",
+    "expr": "0.50/2.0",
+    "answer": {
+      "value": 0.25,
+      "unit": "mol/dm³",
+      "sig_figs": 2,
+      "tolerance": 0.01,
+      "computed": 0.25
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "c = n/V = 0.50/2.0"
+      },
+      {
+        "mark": 1,
+        "point": "0.25 mol/dm³"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC10-001",
+    "subtopic": "QC10",
+    "spec_ref": "4.3.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A reaction has a theoretical yield of 12.0 g and an actual yield of 9.0 g. Calculate the percentage yield.",
+    "given": {
+      "actual_yield": 9.0,
+      "theoretical_yield": 12.0
+    },
+    "equation": "percentage yield = actual/theoretical × 100",
+    "expr": "9.0/12.0*100",
+    "answer": {
+      "value": 75,
+      "unit": "%",
+      "sig_figs": 2,
+      "tolerance": 0.5,
+      "computed": 75
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "percentage yield = actual/theoretical × 100"
+      },
+      {
+        "mark": 1,
+        "point": "75%"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC11-001",
+    "subtopic": "QC11",
+    "spec_ref": "4.3.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A reaction has a desired product Mr of 80 and a total Mr of all reactants of 100. Calculate the atom economy.",
+    "given": {
+      "Mr_product": 80,
+      "Mr_reactants": 100
+    },
+    "equation": "atom economy = Mr(desired product)/Mr(total reactants) × 100",
+    "expr": "80/100*100",
+    "answer": {
+      "value": 80,
+      "unit": "%",
+      "sig_figs": 2,
+      "tolerance": 0.5,
+      "computed": 80
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "atom economy = desired product Mr/total reactant Mr × 100"
+      },
+      {
+        "mark": 1,
+        "point": "80%"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "QC12-001",
+    "subtopic": "QC12",
+    "spec_ref": "4.3.4",
+    "tier": "H",
+    "marks": 3,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A 25.0 cm³ sample contains 0.00400 mol of dissolved solute. Calculate its concentration in mol/dm³.",
+    "given": {
+      "n": 0.004,
+      "V_cm3": 25.0
+    },
+    "equation": "c = n / V(dm³)",
+    "expr": "0.00400/(25.0/1000)",
+    "answer": {
+      "value": 0.16,
+      "unit": "mol/dm³",
+      "sig_figs": 3,
+      "tolerance": 0.002,
+      "computed": 0.16
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Convert 25.0 cm³ to 0.0250 dm³."
+      },
+      {
+        "mark": 1,
+        "point": "c = n/V = 0.00400/0.0250"
+      },
+      {
+        "mark": 1,
+        "point": "0.160 mol/dm³"
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "QC13-001",
+    "subtopic": "QC13",
+    "spec_ref": "4.3.5",
+    "tier": "H",
+    "marks": 3,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "At room conditions, 1 mol of gas occupies 24 dm³. Calculate the volume occupied by 0.35 mol of gas.",
+    "given": {
+      "n": 0.35,
+      "molar_volume": 24
+    },
+    "equation": "V = n × 24",
+    "expr": "0.35*24",
+    "answer": {
+      "value": 8.4,
+      "unit": "dm³",
+      "sig_figs": 2,
+      "tolerance": 0.1,
+      "computed": 8.4
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Use volume = moles × 24 dm³."
+      },
+      {
+        "mark": 1,
+        "point": "0.35 × 24"
+      },
+      {
+        "mark": 1,
+        "point": "8.4 dm³"
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "CC1-001",
+    "subtopic": "CC1",
+    "spec_ref": "4.4.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why a metal oxide can be described as the product of oxidation of the metal.",
+    "answer_text": "The metal has reacted with oxygen, so oxygen has been added to form the oxide.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The metal has reacted with oxygen."
+      },
+      {
+        "mark": 1,
+        "point": "Oxygen has been added to the metal."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC2-001",
+    "subtopic": "CC2",
+    "spec_ref": "4.4.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "A metal higher in the reactivity series is placed in a solution containing ions of a less reactive metal. Predict what happens and explain.",
+    "answer_text": "The more reactive metal displaces the less reactive metal from its compound because it loses electrons more readily.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A displacement reaction occurs."
+      },
+      {
+        "mark": 1,
+        "point": "The more reactive metal loses electrons/enters solution while the less reactive metal is displaced."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC3-001",
+    "subtopic": "CC3",
+    "spec_ref": "4.4.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why carbon can be used to extract copper from copper oxide but not potassium from potassium oxide.",
+    "answer_text": "Copper is less reactive than carbon, so carbon can reduce its oxide. Potassium is more reactive than carbon, so carbon cannot reduce potassium oxide.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Copper is below carbon in the reactivity series."
+      },
+      {
+        "mark": 1,
+        "point": "Potassium is above carbon and its oxide is too stable for carbon to reduce it."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC4-001",
+    "subtopic": "CC4",
+    "spec_ref": "4.4.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "During a reaction, Cu²⁺ ions become Cu atoms. Explain this change in terms of electrons.",
+    "answer_text": "Cu²⁺ ions gain two electrons to form copper atoms; this is reduction.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Cu²⁺ gains electrons."
+      },
+      {
+        "mark": 1,
+        "point": "Gaining electrons is reduction."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "CC5-001",
+    "subtopic": "CC5",
+    "spec_ref": "4.4.2.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Write",
+    "type": "short",
+    "stem": "State the two products formed when magnesium reacts with hydrochloric acid.",
+    "answer_text": "Magnesium chloride and hydrogen.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Magnesium chloride"
+      },
+      {
+        "mark": 1,
+        "point": "Hydrogen"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC6-001",
+    "subtopic": "CC6",
+    "spec_ref": "4.4.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain what happens to the H⁺ ions and OH⁻ ions during neutralisation.",
+    "answer_text": "H⁺ ions react with OH⁻ ions to form water.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "H⁺ and OH⁻ ions react together."
+      },
+      {
+        "mark": 1,
+        "point": "They form water."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC7-001",
+    "subtopic": "CC7",
+    "spec_ref": "4.4.2.3",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "Describe how to prepare a pure, dry sample of a soluble salt from a suitable acid and an insoluble metal oxide.",
+    "answer_text": "Add the insoluble metal oxide to warm acid until no more reacts, filter off excess solid, then evaporate some water and crystallise the salt before drying the crystals.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Add metal oxide to warm acid until no more reacts/excess solid remains."
+      },
+      {
+        "mark": 1,
+        "point": "Filter to remove excess solid."
+      },
+      {
+        "mark": 1,
+        "point": "Evaporate some water and crystallise, then dry the crystals."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 1
+  },
+  {
+    "id": "CC8-001",
+    "subtopic": "CC8",
+    "spec_ref": "4.4.2.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "What does a pH value of 3 indicate about a solution compared with a solution of pH 5?",
+    "answer_text": "Both are acidic, but the pH 3 solution has the higher hydrogen-ion concentration.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Both are acidic, but pH 3 is more acidic."
+      },
+      {
+        "mark": 1,
+        "point": "The pH 3 solution has a higher concentration of H⁺ ions."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC9-001",
+    "subtopic": "CC9",
+    "spec_ref": "4.4.2.5",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "In a titration, explain why a pipette is used to transfer a fixed volume of alkali and why an indicator is used.",
+    "answer_text": "A pipette transfers an accurate fixed volume of alkali. The indicator changes colour near the endpoint, allowing the acid volume required for neutralisation to be measured.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A pipette measures/transfers an accurate fixed volume."
+      },
+      {
+        "mark": 1,
+        "point": "The indicator changes colour near the endpoint."
+      },
+      {
+        "mark": 1,
+        "point": "This allows the volume of acid needed for neutralisation to be determined."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 2
+  },
+  {
+    "id": "CC10-001",
+    "subtopic": "CC10",
+    "spec_ref": "4.4.2.6",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain the difference between a strong acid and a weak acid.",
+    "answer_text": "A strong acid ionises completely in water, whereas a weak acid only partially ionises.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A strong acid ionises completely in aqueous solution."
+      },
+      {
+        "mark": 1,
+        "point": "A weak acid only partially ionises."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "CC11-001",
+    "subtopic": "CC11",
+    "spec_ref": "4.4.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why an ionic compound must be molten or dissolved for electrolysis to occur.",
+    "answer_text": "The ions must be free to move so they can carry charge to the electrodes.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The ions must be free to move."
+      },
+      {
+        "mark": 1,
+        "point": "Moving ions carry charge to the electrodes."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "CC12-001",
+    "subtopic": "CC12",
+    "spec_ref": "4.4.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "During electrolysis of molten lead bromide, identify the product at each electrode.",
+    "answer_text": "Lead forms at the cathode and bromine forms at the anode.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Lead forms at the negative electrode/cathode."
+      },
+      {
+        "mark": 1,
+        "point": "Bromine forms at the positive electrode/anode."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC13-001",
+    "subtopic": "CC13",
+    "spec_ref": "4.4.3.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why electrolysis is used to extract aluminium rather than heating aluminium oxide with carbon.",
+    "answer_text": "Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Aluminium is more reactive than carbon."
+      },
+      {
+        "mark": 1,
+        "point": "Carbon cannot reduce aluminium oxide."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CC14-001",
+    "subtopic": "CC14",
+    "spec_ref": "4.4.3.4",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "During electrolysis of aqueous copper sulfate with inert electrodes, describe one observation at each electrode and identify the products.",
+    "answer_text": "Copper is deposited at the negative electrode and oxygen gas is produced at the positive electrode.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Copper forms at the negative electrode."
+      },
+      {
+        "mark": 1,
+        "point": "Oxygen forms at the positive electrode, with bubbles observed."
+      },
+      {
+        "mark": 1,
+        "point": "Copper may form as a coating/deposit at the negative electrode."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 3
+  },
+  {
+    "id": "CC15-001",
+    "subtopic": "CC15",
+    "spec_ref": "4.4.3.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "Write",
+    "type": "short",
+    "stem": "Write the half-equation for the reduction of Ag⁺ ions to silver atoms.",
+    "answer_text": "Ag⁺ + e⁻ → Ag.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Ag⁺ + e⁻ → Ag"
+      },
+      {
+        "mark": 1,
+        "point": "Electron is on the reactant side."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "EC1-001",
+    "subtopic": "EC1",
+    "spec_ref": "4.5.1.1",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "A student mixes an acid and an alkali in an insulated cup. The temperature rises. Explain what this shows and give one improvement to reduce heat loss.",
+    "answer_text": "The neutralisation is exothermic because energy is transferred to the surroundings. A lid or better insulation would reduce heat loss.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The reaction is exothermic."
+      },
+      {
+        "mark": 1,
+        "point": "Energy is transferred to the surroundings, increasing temperature."
+      },
+      {
+        "mark": 1,
+        "point": "Use better insulation/lid to reduce heat loss."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 4
+  },
+  {
+    "id": "EC2-001",
+    "subtopic": "EC2",
+    "spec_ref": "4.5.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Interpret",
+    "type": "short",
+    "stem": "On a reaction profile, what does the vertical difference between the reactants and the peak represent?",
+    "answer_text": "It represents the activation energy needed for successful collisions.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Activation energy."
+      },
+      {
+        "mark": 1,
+        "point": "It is the minimum energy needed for successful collisions."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "EC3-001",
+    "subtopic": "EC3",
+    "spec_ref": "4.5.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A reaction breaks bonds requiring 900 kJ/mol and forms bonds releasing 1050 kJ/mol. Calculate the overall energy change.",
+    "given": {
+      "energy_break": 900,
+      "energy_form": 1050
+    },
+    "equation": "ΔH = energy to break bonds − energy released forming bonds",
+    "expr": "900-1050",
+    "answer": {
+      "value": -150,
+      "unit": "kJ/mol",
+      "sig_figs": 3,
+      "tolerance": 1,
+      "computed": -150
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Energy change = energy to break bonds − energy released forming bonds."
+      },
+      {
+        "mark": 1,
+        "point": "−150 kJ/mol"
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "EC4-001",
+    "subtopic": "EC4",
+    "spec_ref": "4.5.2.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain how a simple cell can produce a potential difference.",
+    "answer_text": "Different electrodes undergo different redox processes, creating a potential difference that drives electron flow.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Different electrodes have different tendencies to lose/gain electrons."
+      },
+      {
+        "mark": 1,
+        "point": "A chemical reaction causes electrons to flow through the external circuit."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "EC5-001",
+    "subtopic": "EC5",
+    "spec_ref": "4.5.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "State one advantage and one limitation of hydrogen fuel cells.",
+    "answer_text": "An advantage is that water is produced at the cell. A limitation is that hydrogen can be difficult or energy-intensive to produce, store and distribute.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Advantage: water is the main product at point of use/no carbon dioxide from the cell."
+      },
+      {
+        "mark": 1,
+        "point": "Limitation: hydrogen storage/production/distribution can be difficult or energy intensive."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE1-001",
+    "subtopic": "RE1",
+    "spec_ref": "4.6.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Calculate",
+    "type": "numeric",
+    "stem": "A reaction produces 36 cm³ of gas in 90 s. Calculate the mean rate in cm³/s.",
+    "given": {
+      "volume": 36,
+      "time": 90
+    },
+    "equation": "rate = volume/time",
+    "expr": "36/90",
+    "answer": {
+      "value": 0.4,
+      "unit": "cm³/s",
+      "sig_figs": 2,
+      "tolerance": 0.01,
+      "computed": 0.4
+    },
+    "marking": [
+      {
+        "mark": 1,
+        "point": "rate = change in volume/time"
+      },
+      {
+        "mark": 1,
+        "point": "0.40 cm³/s"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE2-001",
+    "subtopic": "RE2",
+    "spec_ref": "4.6.1.2",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "A student investigates how acid concentration affects reaction rate. State the independent variable, one dependent variable and two variables that should be controlled.",
+    "answer_text": "Independent: acid concentration. Dependent: reaction rate, measured for example from gas production. Controls include temperature and the mass/surface area of the solid.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Independent variable: acid concentration."
+      },
+      {
+        "mark": 1,
+        "point": "Dependent variable: rate, such as gas volume per unit time."
+      },
+      {
+        "mark": 1,
+        "point": "Two valid controls, e.g. temperature and mass/surface area of solid."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 5
+  },
+  {
+    "id": "RE3-001",
+    "subtopic": "RE3",
+    "spec_ref": "4.6.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Use collision theory to explain why increasing temperature usually increases reaction rate.",
+    "answer_text": "Particles have more kinetic energy, causing more frequent collisions and a greater proportion of successful collisions.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Particles have greater kinetic energy and collide more frequently."
+      },
+      {
+        "mark": 1,
+        "point": "A greater proportion of collisions have energy at least equal to activation energy."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE4-001",
+    "subtopic": "RE4",
+    "spec_ref": "4.6.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain how a catalyst increases reaction rate.",
+    "answer_text": "A catalyst provides an alternative pathway with a lower activation energy.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It provides an alternative reaction pathway."
+      },
+      {
+        "mark": 1,
+        "point": "The alternative pathway has lower activation energy."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE5-001",
+    "subtopic": "RE5",
+    "spec_ref": "4.6.2.1",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which reaction is reversible?",
+    "choices": [
+      "A → B only",
+      "A ⇌ B",
+      "A + B → C only",
+      "C → A only"
+    ],
+    "answer_index": 1,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A ⇌ B"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE6-001",
+    "subtopic": "RE6",
+    "spec_ref": "4.6.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Why can an exothermic forward reaction have an endothermic reverse reaction?",
+    "answer_text": "The reverse reaction has the opposite energy change, so energy released in the forward direction is absorbed in reverse.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The reverse reaction is the opposite energy change."
+      },
+      {
+        "mark": 1,
+        "point": "Energy released in one direction is absorbed in the reverse direction."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE7-001",
+    "subtopic": "RE7",
+    "spec_ref": "4.6.2.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "What is meant by dynamic equilibrium in a closed system?",
+    "answer_text": "Forward and reverse reactions continue at equal rates, so concentrations remain constant.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Forward and reverse reactions continue to occur."
+      },
+      {
+        "mark": 1,
+        "point": "They occur at equal rates, so concentrations remain constant."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "RE8-001",
+    "subtopic": "RE8",
+    "spec_ref": "4.6.2.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "For an exothermic forward reaction at equilibrium, predict the effect of increasing temperature on the equilibrium position.",
+    "answer_text": "The equilibrium shifts in the endothermic direction, so the equilibrium yield of products decreases.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Equilibrium shifts in the endothermic direction/reverse direction."
+      },
+      {
+        "mark": 1,
+        "point": "The yield of products from the exothermic forward reaction decreases."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "RE9-001",
+    "subtopic": "RE9",
+    "spec_ref": "4.6.2.5",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "For N₂ + 3H₂ ⇌ 2NH₃, predict the effect of increasing the concentration of hydrogen.",
+    "answer_text": "The equilibrium shifts to the right, forming more ammonia until a new equilibrium is established.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Equilibrium shifts to the right."
+      },
+      {
+        "mark": 1,
+        "point": "More ammonia is formed until a new equilibrium is reached."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "RE10-001",
+    "subtopic": "RE10",
+    "spec_ref": "4.6.2.6",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "For an endothermic forward reaction at equilibrium, predict the effect of lowering temperature.",
+    "answer_text": "The equilibrium shifts in the exothermic direction, reducing the yield of products from the endothermic forward reaction.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Equilibrium shifts in the exothermic direction."
+      },
+      {
+        "mark": 1,
+        "point": "The yield of products decreases for the endothermic forward reaction."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "RE11-001",
+    "subtopic": "RE11",
+    "spec_ref": "4.6.2.7",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "For N₂ + 3H₂ ⇌ 2NH₃, predict the effect of increasing pressure.",
+    "answer_text": "It shifts to the right because the right side has fewer gas molecules.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Equilibrium shifts to the side with fewer gas molecules."
+      },
+      {
+        "mark": 1,
+        "point": "It shifts right towards ammonia."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "O1-001",
+    "subtopic": "O1",
+    "spec_ref": "4.7.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Define",
+    "type": "short",
+    "stem": "Define the terms hydrocarbon and alkane.",
+    "answer_text": "A hydrocarbon contains only carbon and hydrogen. An alkane is a saturated hydrocarbon with only single carbon-carbon bonds.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Hydrocarbon contains only carbon and hydrogen."
+      },
+      {
+        "mark": 1,
+        "point": "An alkane is a saturated hydrocarbon with single carbon-carbon bonds."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O2-001",
+    "subtopic": "O2",
+    "spec_ref": "4.7.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why crude oil is separated by fractional distillation before many hydrocarbons are used.",
+    "answer_text": "Crude oil is a mixture, and fractional distillation separates it into useful fractions with similar boiling points.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Crude oil is a mixture of hydrocarbons."
+      },
+      {
+        "mark": 1,
+        "point": "Fractions contain hydrocarbons with similar boiling points/properties."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O3-001",
+    "subtopic": "O3",
+    "spec_ref": "4.7.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "State two trends in the properties of hydrocarbon molecules as chain length increases.",
+    "answer_text": "Boiling point and viscosity generally increase as chain length increases, while volatility decreases.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Boiling point generally increases."
+      },
+      {
+        "mark": 1,
+        "point": "Viscosity generally increases or volatility decreases."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O4-001",
+    "subtopic": "O4",
+    "spec_ref": "4.7.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why cracking is useful to the petrochemical industry.",
+    "answer_text": "Cracking converts less useful long-chain hydrocarbons into shorter, more useful alkanes and alkenes.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It breaks long-chain hydrocarbons into shorter molecules."
+      },
+      {
+        "mark": 1,
+        "point": "It produces useful alkanes and alkenes in demand."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O5-001",
+    "subtopic": "O5",
+    "spec_ref": "4.7.2.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "Describe the bonding around the carbon-carbon double bond in ethene.",
+    "answer_text": "Ethene contains a C=C double covalent bond, with each carbon also bonded to two hydrogen atoms.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The carbon atoms are joined by a double covalent bond."
+      },
+      {
+        "mark": 1,
+        "point": "Each carbon also forms single bonds to hydrogen atoms."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O6-001",
+    "subtopic": "O6",
+    "spec_ref": "4.7.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Predict",
+    "type": "short",
+    "stem": "Predict what happens when ethene reacts with bromine water.",
+    "answer_text": "Bromine adds across the C=C double bond and the bromine water is decolourised.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "An addition reaction occurs across the double bond."
+      },
+      {
+        "mark": 1,
+        "point": "The bromine water is decolourised."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O7-001",
+    "subtopic": "O7",
+    "spec_ref": "4.7.2.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "State two uses of ethanol.",
+    "answer_text": "Ethanol can be used as a solvent and as a fuel.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Valid use such as solvent."
+      },
+      {
+        "mark": 1,
+        "point": "Valid use such as fuel or alcoholic drinks."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O8-001",
+    "subtopic": "O8",
+    "spec_ref": "4.7.2.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why ethanoic acid reacts with sodium carbonate.",
+    "answer_text": "Ethanoic acid reacts with carbonate ions, producing carbon dioxide, water and a salt.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Ethanoic acid is an acid and reacts with carbonate ions."
+      },
+      {
+        "mark": 1,
+        "point": "Carbon dioxide, water and a salt are produced."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O9-001",
+    "subtopic": "O9",
+    "spec_ref": "4.7.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "Describe what happens during addition polymerisation of an alkene.",
+    "answer_text": "The double bond opens and many alkene monomers join to form a long-chain polymer.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The C=C double bond opens."
+      },
+      {
+        "mark": 1,
+        "point": "Many monomers join to form a long-chain polymer."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "O10-001",
+    "subtopic": "O10",
+    "spec_ref": "4.7.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "State one difference between addition and condensation polymerisation.",
+    "answer_text": "Addition polymerisation produces no small molecule, whereas condensation polymerisation produces a small molecule such as water.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Addition polymerisation uses monomers with C=C bonds and produces no small molecule."
+      },
+      {
+        "mark": 1,
+        "point": "Condensation polymerisation forms a small molecule such as water as well as the polymer."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "O11-001",
+    "subtopic": "O11",
+    "spec_ref": "4.7.3.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "State the two functional groups present in an amino acid.",
+    "answer_text": "An amino group (−NH₂) and a carboxylic acid group (−COOH).",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Amine group, −NH₂."
+      },
+      {
+        "mark": 1,
+        "point": "Carboxylic acid group, −COOH."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "O12-001",
+    "subtopic": "O12",
+    "spec_ref": "4.7.3.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why DNA can be described as a polymer.",
+    "answer_text": "DNA consists of many nucleotide units joined into long chains, so it is a polymer.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It is made from many repeating nucleotide units."
+      },
+      {
+        "mark": 1,
+        "point": "The units are joined into long chains."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA1-001",
+    "subtopic": "CA1",
+    "spec_ref": "4.8.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain what is meant by a pure substance in chemical analysis.",
+    "answer_text": "A pure substance contains only one element or one compound and has a fixed composition.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It contains only one element or one compound."
+      },
+      {
+        "mark": 1,
+        "point": "It has a fixed composition."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA2-001",
+    "subtopic": "CA2",
+    "spec_ref": "4.8.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Define",
+    "type": "short",
+    "stem": "What is a formulation?",
+    "answer_text": "A formulation is a useful mixture whose components are present in carefully measured proportions.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A mixture designed as a useful product."
+      },
+      {
+        "mark": 1,
+        "point": "Its components are present in carefully measured proportions."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA3-001",
+    "subtopic": "CA3",
+    "spec_ref": "4.8.1.3",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "A dye mixture is analysed by paper chromatography. Describe how the chromatogram can be used to determine whether the sample contains a known dye.",
+    "answer_text": "Run the sample and known dye in the same chromatographic conditions, then compare the spot positions or Rf values. A matching value supports the presence of the known dye.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Spot sample and known dye on the baseline using the same solvent."
+      },
+      {
+        "mark": 1,
+        "point": "Allow solvent to travel and compare positions/Rf values of spots."
+      },
+      {
+        "mark": 1,
+        "point": "A matching spot/Rf supports the presence of the known dye."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 6
+  },
+  {
+    "id": "CA4-001",
+    "subtopic": "CA4",
+    "spec_ref": "4.8.2.1",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "short",
+    "stem": "What observation is used as the test for hydrogen gas?",
+    "answer_text": "A lighted splint produces a squeaky pop.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A lighted splint gives a squeaky pop."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA5-001",
+    "subtopic": "CA5",
+    "spec_ref": "4.8.2.2",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "short",
+    "stem": "What observation is used as the test for oxygen gas?",
+    "answer_text": "A glowing splint relights.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A glowing splint relights."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA6-001",
+    "subtopic": "CA6",
+    "spec_ref": "4.8.2.3",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "short",
+    "stem": "What observation confirms the presence of carbon dioxide?",
+    "answer_text": "Limewater turns cloudy/milky.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Limewater turns cloudy/milky."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA7-001",
+    "subtopic": "CA7",
+    "spec_ref": "4.8.2.4",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "short",
+    "stem": "What observation is expected when chlorine is tested using damp litmus paper?",
+    "answer_text": "Damp blue litmus paper is bleached white.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Damp blue litmus paper is bleached white."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "CA8-001",
+    "subtopic": "CA8",
+    "spec_ref": "4.8.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Identify",
+    "type": "short",
+    "stem": "State the flame-test colour for sodium ions and the flame-test colour for potassium ions.",
+    "answer_text": "Sodium gives yellow; potassium gives lilac.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Sodium: yellow."
+      },
+      {
+        "mark": 1,
+        "point": "Potassium: lilac."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 7
+  },
+  {
+    "id": "CA9-001",
+    "subtopic": "CA9",
+    "spec_ref": "4.8.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Identify",
+    "type": "short",
+    "stem": "Aqueous sodium hydroxide is added to a solution containing Cu²⁺ ions. State the observation.",
+    "answer_text": "A blue precipitate of copper(II) hydroxide forms.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "A blue precipitate forms."
+      },
+      {
+        "mark": 1,
+        "point": "The precipitate is copper(II) hydroxide."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 7
+  },
+  {
+    "id": "CA10-001",
+    "subtopic": "CA10",
+    "spec_ref": "4.8.3.3–4.8.3.7",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "Describe how you could distinguish solutions containing carbonate ions, chloride ions and sulfate ions using suitable reagents.",
+    "answer_text": "Use dilute acid to test for carbonate by observing carbon dioxide. Use acidified silver nitrate to test for chloride and acidified barium solution to test for sulfate, observing the characteristic precipitates.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Use dilute acid for carbonate and observe carbon dioxide/effervescence."
+      },
+      {
+        "mark": 1,
+        "point": "Use silver nitrate (after appropriate acidification) for chloride, giving a white precipitate."
+      },
+      {
+        "mark": 1,
+        "point": "Use barium solution (after appropriate acidification) for sulfate, giving a white precipitate."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 7
+  },
+  {
+    "id": "ATM1-001",
+    "subtopic": "ATM1",
+    "spec_ref": "4.9.1.1",
+    "tier": "H",
+    "marks": 1,
+    "command": "Identify",
+    "type": "mcq",
+    "stem": "Which gas makes up the largest proportion of Earth's present atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer_index": 2,
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Nitrogen"
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM2-001",
+    "subtopic": "ATM2",
+    "spec_ref": "4.9.1.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "Describe one feature of the Earth's early atmosphere compared with today's atmosphere.",
+    "answer_text": "The early atmosphere contained much more carbon dioxide and very little or no oxygen.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "It contained much more carbon dioxide."
+      },
+      {
+        "mark": 1,
+        "point": "It contained little or no oxygen."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM3-001",
+    "subtopic": "ATM3",
+    "spec_ref": "4.9.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain how photosynthesis contributed to the increase in atmospheric oxygen.",
+    "answer_text": "Photosynthetic organisms use carbon dioxide and water and release oxygen, causing atmospheric oxygen to increase.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Photosynthetic organisms use carbon dioxide and water."
+      },
+      {
+        "mark": 1,
+        "point": "Oxygen is released as a product."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM4-001",
+    "subtopic": "ATM4",
+    "spec_ref": "4.9.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "State one process that removed carbon dioxide from the atmosphere and explain how it did so.",
+    "answer_text": "Photosynthesis removed carbon dioxide by using it as a reactant; carbonate formation is another valid mechanism.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Valid process such as photosynthesis or formation of carbonate sediments."
+      },
+      {
+        "mark": 1,
+        "point": "Correct explanation of carbon dioxide removal."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM5-001",
+    "subtopic": "ATM5",
+    "spec_ref": "4.9.2.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why carbon dioxide and methane are greenhouse gases.",
+    "answer_text": "They absorb outgoing infrared radiation, reducing the rate at which thermal energy escapes to space.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "They absorb outgoing infrared radiation."
+      },
+      {
+        "mark": 1,
+        "point": "This reduces the rate at which thermal energy escapes to space."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM6-001",
+    "subtopic": "ATM6",
+    "spec_ref": "4.9.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Identify",
+    "type": "short",
+    "stem": "Give two human activities that increase atmospheric greenhouse-gas concentrations.",
+    "answer_text": "Burning fossil fuels and deforestation are examples.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Burning fossil fuels."
+      },
+      {
+        "mark": 1,
+        "point": "Deforestation/agriculture/other valid activity."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM7-001",
+    "subtopic": "ATM7",
+    "spec_ref": "4.9.2.3",
+    "tier": "H",
+    "marks": 3,
+    "command": "Evaluate",
+    "type": "extended",
+    "stem": "Explain why scientists use evidence from several sources when assessing global climate change.",
+    "answer_text": "Several natural and human factors affect climate, so scientists compare multiple datasets to identify consistent trends and reduce reliance on a single source.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Climate is affected by multiple natural and human factors."
+      },
+      {
+        "mark": 1,
+        "point": "Different datasets can be compared to identify consistent trends."
+      },
+      {
+        "mark": 1,
+        "point": "Using several sources reduces reliance on a single measurement/model."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM8-001",
+    "subtopic": "ATM8",
+    "spec_ref": "4.9.2.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Evaluate",
+    "type": "short",
+    "stem": "Suggest two ways an individual could reduce their carbon footprint.",
+    "answer_text": "Examples include using less fossil-fuelled transport and reducing household energy use.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Valid action such as reducing car use or energy use."
+      },
+      {
+        "mark": 1,
+        "point": "Second valid action such as reducing meat consumption or waste."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM9-001",
+    "subtopic": "ATM9",
+    "spec_ref": "4.9.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Identify",
+    "type": "short",
+    "stem": "Name one pollutant formed by incomplete combustion of hydrocarbons and one pollutant formed from sulfur impurities in fuels.",
+    "answer_text": "Carbon monoxide and sulfur dioxide.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Carbon monoxide."
+      },
+      {
+        "mark": 1,
+        "point": "Sulfur dioxide."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "ATM10-001",
+    "subtopic": "ATM10",
+    "spec_ref": "4.9.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain one harmful effect of sulfur dioxide and one harmful effect of carbon monoxide.",
+    "answer_text": "Sulfur dioxide can cause respiratory problems and acid rain. Carbon monoxide reduces the blood's ability to carry oxygen.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Sulfur dioxide contributes to acid rain/respiratory problems."
+      },
+      {
+        "mark": 1,
+        "point": "Carbon monoxide reduces the blood's oxygen-carrying capacity."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR1-001",
+    "subtopic": "UR1",
+    "spec_ref": "4.10.1.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why sustainable development requires resources to be used without preventing future generations from meeting their needs.",
+    "answer_text": "Resources must be used at a sustainable rate while considering environmental impacts and future availability.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Resources should be used at a rate that can be maintained."
+      },
+      {
+        "mark": 1,
+        "point": "Environmental impacts and future resource availability must be considered."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR2-001",
+    "subtopic": "UR2",
+    "spec_ref": "4.10.1.2",
+    "tier": "H",
+    "marks": 3,
+    "command": "Practical",
+    "type": "extended",
+    "stem": "Describe two stages used to produce potable water from fresh water and explain why the water is not necessarily chemically pure.",
+    "answer_text": "Filtration removes insoluble particles and sterilisation kills microorganisms. Potable water may still contain dissolved substances, so it is not chemically pure.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Filtration removes insoluble particles."
+      },
+      {
+        "mark": 1,
+        "point": "Sterilisation kills microorganisms, e.g. using chlorine/ozone/UV."
+      },
+      {
+        "mark": 1,
+        "point": "Potable water can still contain dissolved substances, so it is not chemically pure."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": 8
+  },
+  {
+    "id": "UR3-001",
+    "subtopic": "UR3",
+    "spec_ref": "4.10.1.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Describe",
+    "type": "short",
+    "stem": "State two stages in the treatment of waste water.",
+    "answer_text": "Examples include screening and sedimentation, followed by biological treatment.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Screening/sedimentation/biological treatment or similar valid stage."
+      },
+      {
+        "mark": 1,
+        "point": "A second valid stage."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR4-001",
+    "subtopic": "UR4",
+    "spec_ref": "4.10.1.4",
+    "tier": "H",
+    "marks": 2,
+    "command": "Compare",
+    "type": "short",
+    "stem": "Compare extracting a reactive metal by electrolysis with extracting a less reactive metal using carbon.",
+    "answer_text": "Very reactive metals require electrolysis, whereas sufficiently less reactive metals can sometimes be extracted by reduction with carbon.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Very reactive metals require electrolysis of molten compounds."
+      },
+      {
+        "mark": 1,
+        "point": "Less reactive metals can sometimes be extracted by reduction with carbon."
+      }
+    ],
+    "triple_only": true,
+    "required_practical": null
+  },
+  {
+    "id": "UR5-001",
+    "subtopic": "UR5",
+    "spec_ref": "4.10.2.1",
+    "tier": "H",
+    "marks": 3,
+    "command": "Evaluate",
+    "type": "extended",
+    "stem": "A company compares two packaging materials using a life cycle assessment. Explain why several stages of a product's life must be considered.",
+    "answer_text": "Extraction, manufacture, transport, use and disposal can all have environmental impacts, so the whole life cycle should be considered.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Raw-material extraction and manufacture use resources/energy."
+      },
+      {
+        "mark": 1,
+        "point": "Transport/use/disposal can also cause environmental impacts."
+      },
+      {
+        "mark": 1,
+        "point": "Considering all stages avoids judging a material from only one part of its life cycle."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR6-001",
+    "subtopic": "UR6",
+    "spec_ref": "4.10.2.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Suggest",
+    "type": "short",
+    "stem": "Suggest two ways a manufacturer could reduce its use of raw materials.",
+    "answer_text": "The manufacturer could reuse/recycle materials and improve manufacturing efficiency to reduce raw-material use.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Reuse/recycle materials."
+      },
+      {
+        "mark": 1,
+        "point": "Use more efficient manufacturing or renewable/recycled feedstock."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR7-001",
+    "subtopic": "UR7",
+    "spec_ref": "4.10.3.1",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why painting a steel surface can reduce corrosion.",
+    "answer_text": "Paint forms a barrier that prevents water and oxygen reaching the steel.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "The coating forms a barrier."
+      },
+      {
+        "mark": 1,
+        "point": "It prevents water and oxygen reaching the iron/steel."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR8-001",
+    "subtopic": "UR8",
+    "spec_ref": "4.10.3.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Explain",
+    "type": "short",
+    "stem": "Explain why an alloy is often harder than the pure metal from which it is made.",
+    "answer_text": "Different-sized atoms distort the lattice, making it harder for layers of atoms to slide.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Different-sized atoms disrupt the regular metal lattice."
+      },
+      {
+        "mark": 1,
+        "point": "Layers cannot slide as easily."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR9-001",
+    "subtopic": "UR9",
+    "spec_ref": "4.10.3.3",
+    "tier": "H",
+    "marks": 2,
+    "command": "Compare",
+    "type": "short",
+    "stem": "State one property that makes ceramics useful and one property that can limit their use.",
+    "answer_text": "Ceramics are often hard and heat resistant, but they can be brittle.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Useful property such as high melting point/hardness."
+      },
+      {
+        "mark": 1,
+        "point": "Limitation such as brittleness."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR10-001",
+    "subtopic": "UR10",
+    "spec_ref": "4.10.4.1",
+    "tier": "H",
+    "marks": 3,
+    "command": "Evaluate",
+    "type": "extended",
+    "stem": "In the Haber process, explain why industry uses a compromise temperature rather than simply choosing the temperature that gives the highest equilibrium yield.",
+    "answer_text": "A lower temperature favours ammonia yield but gives a slower rate. A higher temperature increases rate but lowers equilibrium yield, so industry uses a compromise that is economically practical.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Lower temperature gives a higher equilibrium yield for the exothermic reaction."
+      },
+      {
+        "mark": 1,
+        "point": "Higher temperature gives a faster reaction rate."
+      },
+      {
+        "mark": 1,
+        "point": "A compromise balances rate, yield and economic considerations."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  },
+  {
+    "id": "UR11-001",
+    "subtopic": "UR11",
+    "spec_ref": "4.10.4.2",
+    "tier": "H",
+    "marks": 2,
+    "command": "Identify",
+    "type": "short",
+    "stem": "State two nutrients supplied by NPK fertilisers and give one reason farmers use them.",
+    "answer_text": "NPK fertilisers supply nitrogen, phosphorus and potassium; these nutrients support plant growth and can increase crop yield.",
+    "marking": [
+      {
+        "mark": 1,
+        "point": "Any two of nitrogen, phosphorus, potassium."
+      },
+      {
+        "mark": 1,
+        "point": "They replace essential mineral nutrients and improve plant growth/yield."
+      }
+    ],
+    "triple_only": false,
+    "required_practical": null
+  }
+]

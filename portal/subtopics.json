@@ -1,0 +1,702 @@
+[
+ {
+  "code": "E1",
+  "name": "Energy stores & systems",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 12,
+  "past_paper_marks": 26
+ },
+ {
+  "code": "E2",
+  "name": "Kinetic, elastic & gravitational PE",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 12,
+  "past_paper_marks": 41
+ },
+ {
+  "code": "E3",
+  "name": "Specific heat capacity",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": 1,
+  "past_paper_parts": 16,
+  "past_paper_marks": 42
+ },
+ {
+  "code": "E4",
+  "name": "Power",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 16
+ },
+ {
+  "code": "E5",
+  "name": "Energy transfers & dissipation",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": 2,
+  "past_paper_parts": 10,
+  "past_paper_marks": 23
+ },
+ {
+  "code": "E6",
+  "name": "Efficiency",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 8,
+  "past_paper_marks": 17
+ },
+ {
+  "code": "E7",
+  "name": "National & global energy resources",
+  "topic_code": "4.1",
+  "topic": "Energy",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 21,
+  "past_paper_marks": 44
+ },
+ {
+  "code": "C1",
+  "name": "Circuit symbols & charge flow",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 8,
+  "past_paper_marks": 16
+ },
+ {
+  "code": "C2",
+  "name": "Current, resistance & p.d.",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": 3,
+  "past_paper_parts": 15,
+  "past_paper_marks": 44
+ },
+ {
+  "code": "C3",
+  "name": "Resistors \u00b7 ohmic, lamp, diode",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": 4,
+  "past_paper_parts": 17,
+  "past_paper_marks": 42
+ },
+ {
+  "code": "C4",
+  "name": "Series & parallel circuits",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 8
+ },
+ {
+  "code": "C5",
+  "name": "Mains electricity & safety",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 10
+ },
+ {
+  "code": "C6",
+  "name": "Electrical power & energy transfer",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 19,
+  "past_paper_marks": 55
+ },
+ {
+  "code": "C7",
+  "name": "The National Grid",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 11
+ },
+ {
+  "code": "C8",
+  "name": "Static charge & electric fields",
+  "topic_code": "4.2",
+  "topic": "Electricity",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 10,
+  "past_paper_marks": 21
+ },
+ {
+  "code": "P1",
+  "name": "Density of materials",
+  "topic_code": "4.3",
+  "topic": "Particle model of matter",
+  "paper": 1,
+  "required_practical": 5,
+  "past_paper_parts": 18,
+  "past_paper_marks": 39
+ },
+ {
+  "code": "P2",
+  "name": "States & changes of state",
+  "topic_code": "4.3",
+  "topic": "Particle model of matter",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 0,
+  "past_paper_marks": 0
+ },
+ {
+  "code": "P3",
+  "name": "Internal energy",
+  "topic_code": "4.3",
+  "topic": "Particle model of matter",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 1,
+  "past_paper_marks": 3
+ },
+ {
+  "code": "P4",
+  "name": "Specific latent heat",
+  "topic_code": "4.3",
+  "topic": "Particle model of matter",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 10,
+  "past_paper_marks": 29
+ },
+ {
+  "code": "P5",
+  "name": "Particle motion & gas pressure",
+  "topic_code": "4.3",
+  "topic": "Particle model of matter",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 7,
+  "past_paper_marks": 18
+ },
+ {
+  "code": "P6",
+  "name": "Pressure & volume of a gas",
+  "topic_code": "4.3",
+  "topic": "Particle model of matter",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 16
+ },
+ {
+  "code": "R1",
+  "name": "Structure of the atom",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 13
+ },
+ {
+  "code": "R2",
+  "name": "Mass number, atomic number & isotopes",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 3,
+  "past_paper_marks": 4
+ },
+ {
+  "code": "R3",
+  "name": "Development of the atomic model",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 5
+ },
+ {
+  "code": "R4",
+  "name": "Radioactive decay \u00b7 \u03b1, \u03b2, \u03b3",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 7,
+  "past_paper_marks": 17
+ },
+ {
+  "code": "R5",
+  "name": "Nuclear equations",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 9
+ },
+ {
+  "code": "R6",
+  "name": "Half-life & random decay",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 9
+ },
+ {
+  "code": "R7",
+  "name": "Contamination vs irradiation",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 12
+ },
+ {
+  "code": "R8",
+  "name": "Background radiation & uses",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 3,
+  "past_paper_marks": 5
+ },
+ {
+  "code": "R9",
+  "name": "Nuclear fission & fusion",
+  "topic_code": "4.4",
+  "topic": "Atomic structure",
+  "paper": 1,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 15
+ },
+ {
+  "code": "F1",
+  "name": "Scalars & vectors",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 8,
+  "past_paper_marks": 22
+ },
+ {
+  "code": "F2",
+  "name": "Contact & non-contact forces; gravity",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 10
+ },
+ {
+  "code": "F3",
+  "name": "Resultant forces & free-body diagrams",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 9,
+  "past_paper_marks": 23
+ },
+ {
+  "code": "F4",
+  "name": "Work done & energy transfer",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 11,
+  "past_paper_marks": 29
+ },
+ {
+  "code": "F5",
+  "name": "Forces & elasticity",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": 6,
+  "past_paper_parts": 21,
+  "past_paper_marks": 48
+ },
+ {
+  "code": "F6",
+  "name": "Moments, levers & gears",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 7,
+  "past_paper_marks": 17
+ },
+ {
+  "code": "F7",
+  "name": "Pressure in fluids & upthrust",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 12,
+  "past_paper_marks": 36
+ },
+ {
+  "code": "F8",
+  "name": "Atmospheric pressure",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 8
+ },
+ {
+  "code": "F9",
+  "name": "Distance, displacement, speed & velocity",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 12,
+  "past_paper_marks": 28
+ },
+ {
+  "code": "F10",
+  "name": "Distance\u2013time & velocity\u2013time graphs",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 14
+ },
+ {
+  "code": "F11",
+  "name": "Acceleration",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": 7,
+  "past_paper_parts": 31,
+  "past_paper_marks": 79
+ },
+ {
+  "code": "F12",
+  "name": "Newton's Laws of motion",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 10,
+  "past_paper_marks": 15
+ },
+ {
+  "code": "F13",
+  "name": "Weight & terminal velocity",
+  "topic_code": null,
+  "topic": null,
+  "paper": null,
+  "required_practical": null,
+  "past_paper_parts": 0,
+  "past_paper_marks": 0
+ },
+ {
+  "code": "F14",
+  "name": "Stopping distance & braking",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 11,
+  "past_paper_marks": 29
+ },
+ {
+  "code": "F15",
+  "name": "Momentum & conservation",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 10
+ },
+ {
+  "code": "F16",
+  "name": "Changes in momentum",
+  "topic_code": "4.5",
+  "topic": "Forces",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 14
+ },
+ {
+  "code": "W1",
+  "name": "Transverse & longitudinal waves",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 16
+ },
+ {
+  "code": "W2",
+  "name": "Wave properties & wave equation",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 13,
+  "past_paper_marks": 37
+ },
+ {
+  "code": "W3",
+  "name": "Measuring wave speed",
+  "topic_code": null,
+  "topic": null,
+  "paper": null,
+  "required_practical": 8,
+  "past_paper_parts": 4,
+  "past_paper_marks": 10
+ },
+ {
+  "code": "W4",
+  "name": "Reflection & refraction",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": 9,
+  "past_paper_parts": 22,
+  "past_paper_marks": 53
+ },
+ {
+  "code": "W5",
+  "name": "Sound waves",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 1,
+  "past_paper_marks": 4
+ },
+ {
+  "code": "W6",
+  "name": "Ultrasound & seismic waves",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 10
+ },
+ {
+  "code": "W7",
+  "name": "The electromagnetic spectrum",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 6
+ },
+ {
+  "code": "W8",
+  "name": "Properties of EM waves",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 18,
+  "past_paper_marks": 36
+ },
+ {
+  "code": "W9",
+  "name": "Uses & hazards of EM waves",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 3,
+  "past_paper_marks": 4
+ },
+ {
+  "code": "W10",
+  "name": "Lenses & ray diagrams",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 13,
+  "past_paper_marks": 22
+ },
+ {
+  "code": "W11",
+  "name": "Visible light & colour",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 2,
+  "past_paper_marks": 4
+ },
+ {
+  "code": "W12",
+  "name": "Black body radiation",
+  "topic_code": "4.6",
+  "topic": "Waves",
+  "paper": 2,
+  "required_practical": 10,
+  "past_paper_parts": 5,
+  "past_paper_marks": 8
+ },
+ {
+  "code": "M1",
+  "name": "Permanent & induced magnets",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 2,
+  "past_paper_marks": 3
+ },
+ {
+  "code": "M2",
+  "name": "Magnetic fields",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 2,
+  "past_paper_marks": 6
+ },
+ {
+  "code": "M3",
+  "name": "Electromagnetism & solenoids",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 9,
+  "past_paper_marks": 15
+ },
+ {
+  "code": "M4",
+  "name": "Fleming's left-hand rule & motor effect",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 10,
+  "past_paper_marks": 30
+ },
+ {
+  "code": "M5",
+  "name": "Electric motors & loudspeakers",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 13
+ },
+ {
+  "code": "M6",
+  "name": "Generator effect & induced potential",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 10,
+  "past_paper_marks": 21
+ },
+ {
+  "code": "M7",
+  "name": "Alternators & microphones",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 11
+ },
+ {
+  "code": "M8",
+  "name": "Transformers & the National Grid",
+  "topic_code": "4.7",
+  "topic": "Magnetism & electromagnetism",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 12,
+  "past_paper_marks": 30
+ },
+ {
+  "code": "S1",
+  "name": "The solar system",
+  "topic_code": "4.8",
+  "topic": "Space physics",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 4,
+  "past_paper_marks": 13
+ },
+ {
+  "code": "S2",
+  "name": "Life cycle of a star",
+  "topic_code": "4.8",
+  "topic": "Space physics",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 5,
+  "past_paper_marks": 15
+ },
+ {
+  "code": "S3",
+  "name": "Orbital motion & satellites",
+  "topic_code": "4.8",
+  "topic": "Space physics",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 6,
+  "past_paper_marks": 15
+ },
+ {
+  "code": "S4",
+  "name": "Red-shift & the expanding universe",
+  "topic_code": "4.8",
+  "topic": "Space physics",
+  "paper": 2,
+  "required_practical": null,
+  "past_paper_parts": 17,
+  "past_paper_marks": 26
+ }
+]

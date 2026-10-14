@@ -1,0 +1,1202 @@
+[
+  {
+    "code": "A1",
+    "name": "Atoms, elements and compounds",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A2",
+    "name": "Mixtures",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A3",
+    "name": "Development of the model of the atom",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A4",
+    "name": "Relative electrical charges of subatomic particles",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A5",
+    "name": "Size and mass of atoms",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A6",
+    "name": "Relative atomic mass",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A7",
+    "name": "Electronic structure",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A8",
+    "name": "The periodic table",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A9",
+    "name": "Development of the periodic table",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A10",
+    "name": "Metals and non-metals",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A11",
+    "name": "Group 0",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A12",
+    "name": "Group 1",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A13",
+    "name": "Group 7",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A14",
+    "name": "Comparison with Group 1 elements",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "A15",
+    "name": "Typical properties of transition metals",
+    "topic_code": "4.1",
+    "topic": "Atomic structure and the periodic table",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B1",
+    "name": "Chemical bonds",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B2",
+    "name": "Ionic bonding",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B3",
+    "name": "Ionic compounds",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B4",
+    "name": "Covalent bonding",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B5",
+    "name": "Metallic bonding",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B6",
+    "name": "The three states of matter",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B7",
+    "name": "State symbols",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B8",
+    "name": "Properties of ionic compounds",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B9",
+    "name": "Properties of small molecules",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B10",
+    "name": "Polymers",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B11",
+    "name": "Giant covalent structures",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B12",
+    "name": "Properties of metals and alloys",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B13",
+    "name": "Metals as conductors",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B14",
+    "name": "Diamond",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B15",
+    "name": "Graphite",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B16",
+    "name": "Graphene and fullerenes",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B17",
+    "name": "Sizes of particles and their properties",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "B18",
+    "name": "Uses of nanoparticles",
+    "topic_code": "4.2",
+    "topic": "Bonding, structure, and the properties of matter",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC1",
+    "name": "Conservation of mass and balanced chemical equations",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC2",
+    "name": "Relative formula mass",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC3",
+    "name": "Mass changes when a reactant or product is a gas",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC4",
+    "name": "Chemical measurements",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC5",
+    "name": "Moles",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC6",
+    "name": "Amounts of substances in equations",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC7",
+    "name": "Using moles to balance equations",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC8",
+    "name": "Limiting reactants",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC9",
+    "name": "Concentration of solutions",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC10",
+    "name": "Percentage yield",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC11",
+    "name": "Atom economy",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC12",
+    "name": "Using concentrations of solutions in mol/dm³",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "QC13",
+    "name": "Amount of substance in relation to volumes of gases",
+    "topic_code": "4.3",
+    "topic": "Quantitative chemistry",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC1",
+    "name": "Metal oxides",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC2",
+    "name": "The reactivity series",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC3",
+    "name": "Extraction of metals and reduction",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC4",
+    "name": "Oxidation and reduction in terms of electrons",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC5",
+    "name": "Reactions of acids with metals",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC6",
+    "name": "Neutralisation of acids and salt production",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC7",
+    "name": "Soluble salts",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": 1,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC8",
+    "name": "The pH scale and neutralisation",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC9",
+    "name": "Titrations",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": 2,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC10",
+    "name": "Strong and weak acids",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC11",
+    "name": "The process of electrolysis",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC12",
+    "name": "Electrolysis of molten ionic compounds",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC13",
+    "name": "Using electrolysis to extract metals",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC14",
+    "name": "Electrolysis of aqueous solutions",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": 3,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CC15",
+    "name": "Representation of reactions at electrodes as half equations",
+    "topic_code": "4.4",
+    "topic": "Chemical changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "EC1",
+    "name": "Energy transfer during exothermic and endothermic reactions",
+    "topic_code": "4.5",
+    "topic": "Energy changes",
+    "paper": 1,
+    "required_practical": 4,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "EC2",
+    "name": "Reaction profiles",
+    "topic_code": "4.5",
+    "topic": "Energy changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "EC3",
+    "name": "The energy change of reactions",
+    "topic_code": "4.5",
+    "topic": "Energy changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "EC4",
+    "name": "Cells and batteries",
+    "topic_code": "4.5",
+    "topic": "Energy changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "EC5",
+    "name": "Fuel cells",
+    "topic_code": "4.5",
+    "topic": "Energy changes",
+    "paper": 1,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE1",
+    "name": "Calculating rates of reactions",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE2",
+    "name": "Factors which affect the rates of chemical reactions",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": 5,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE3",
+    "name": "Collision theory and activation energy",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE4",
+    "name": "Catalysts",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE5",
+    "name": "Reversible reactions",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE6",
+    "name": "Energy changes and reversible reactions",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE7",
+    "name": "Equilibrium",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE8",
+    "name": "The effect of changing conditions on equilibrium",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE9",
+    "name": "The effect of changing concentration",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE10",
+    "name": "The effect of temperature changes on equilibrium",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "RE11",
+    "name": "The effect of pressure changes on equilibrium",
+    "topic_code": "4.6",
+    "topic": "The rate and extent of chemical change",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O1",
+    "name": "Crude oil, hydrocarbons and alkanes",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O2",
+    "name": "Fractional distillation and petrochemicals",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O3",
+    "name": "Properties of hydrocarbons",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O4",
+    "name": "Cracking and alkenes",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O5",
+    "name": "Structure and formulae of alkenes",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O6",
+    "name": "Reactions of alkenes",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O7",
+    "name": "Alcohols",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O8",
+    "name": "Carboxylic acids",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O9",
+    "name": "Addition polymerisation",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O10",
+    "name": "Condensation polymerisation",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O11",
+    "name": "Amino acids",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "O12",
+    "name": "DNA and other naturally occurring polymers",
+    "topic_code": "4.7",
+    "topic": "Organic chemistry",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA1",
+    "name": "Pure substances",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA2",
+    "name": "Formulations",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA3",
+    "name": "Chromatography",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": 6,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA4",
+    "name": "Test for hydrogen",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA5",
+    "name": "Test for oxygen",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA6",
+    "name": "Test for carbon dioxide",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA7",
+    "name": "Test for chlorine",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA8",
+    "name": "Flame tests",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": 7,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA9",
+    "name": "Metal hydroxides",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": 7,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "CA10",
+    "name": "Carbonates, halides, sulfates and instrumental methods",
+    "topic_code": "4.8",
+    "topic": "Chemical analysis",
+    "paper": 2,
+    "required_practical": 7,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM1",
+    "name": "The proportions of different gases in the atmosphere",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM2",
+    "name": "The Earth's early atmosphere",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM3",
+    "name": "How oxygen increased",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM4",
+    "name": "How carbon dioxide decreased",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM5",
+    "name": "Greenhouse gases",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM6",
+    "name": "Human activities which contribute to an increase in greenhouse gases in the atmosphere",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM7",
+    "name": "Global climate change",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM8",
+    "name": "The carbon footprint and its reduction",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM9",
+    "name": "Atmospheric pollutants from fuels",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "ATM10",
+    "name": "Properties and effects of atmospheric pollutants",
+    "topic_code": "4.9",
+    "topic": "Chemistry of the atmosphere",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR1",
+    "name": "Using the Earth's resources and sustainable development",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR2",
+    "name": "Potable water",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": 8,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR3",
+    "name": "Waste water treatment",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR4",
+    "name": "Alternative methods of extracting metals",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR5",
+    "name": "Life cycle assessment",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR6",
+    "name": "Ways of reducing the use of resources",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR7",
+    "name": "Corrosion and its prevention",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR8",
+    "name": "Alloys as useful materials",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR9",
+    "name": "Ceramics, polymers and composites",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR10",
+    "name": "The Haber process",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  },
+  {
+    "code": "UR11",
+    "name": "Production and uses of NPK fertilisers",
+    "topic_code": "4.10",
+    "topic": "Using resources",
+    "paper": 2,
+    "required_practical": null,
+    "past_paper_parts": 0,
+    "past_paper_marks": 0
+  }
+]
