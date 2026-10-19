@@ -1555,8 +1555,8 @@ const DEFAULT_SUBJECT_ID = "gcse-edexcel-maths-higher";
 const SUBJECTS = [
   {
     id: "gcse-edexcel-maths-higher",
-    name: "GCSE Edexcel Maths Higher",
-    shortName: "Edexcel Higher",
+    name: "Maths",
+    shortName: "Maths",
     strands: {N:"Number", A:"Algebra", R:"Ratio", G:"Geometry", P:"Probability", S:"Statistics"},
     strandOrder: ["N","A","R","G","P","S"],
     strandLabels: {N:"Number N1–N13", A:"Algebra A1–A20", R:"Ratio R1–R5", G:"Geometry G1–G12", P:"Probability P1–P6", S:"Statistics S1–S6"},
@@ -1697,7 +1697,7 @@ async function loadPhysicsSubject(){
       };
     });
     const subject={
-      id:PHYSICS_SUBJECT_ID,name:"GCSE AQA Physics Higher",shortName:"AQA Physics",
+      id:PHYSICS_SUBJECT_ID,name:"Physics",shortName:"Physics",
       strands,strandOrder,strandLabels,strandIcons,topics,questions:physicsQuestions
     };
     const existing=SUBJECTS.findIndex(item=>item.id===PHYSICS_SUBJECT_ID);
@@ -1748,7 +1748,7 @@ async function loadChemistrySubject(){
       const points=(item.marking||[]).map(point=>({mark:Number(point.mark)||1,point:String(point.point||"")})).filter(point=>point.point);
       return {i:item.id,c:item.subtopic,q:item.stem,a:answer!==undefined&&answer!==null?`${answer}${item.answer?.unit?` ${item.answer.unit}`:""}`:String(item.answer_text||""),markingPoints:points,alts:[],orderSensitive:false,m:points.map(point=>`M${point.mark} ${point.point}`).join("; "),h:item.equation?`Useful relationship: ${item.equation}`:"Use the mark points to check your response.",tip:"",g:7,k:Number(item.marks)||1,t:"E",choices,answerIndex:Number.isInteger(item.answer_index)?item.answer_index:null,answerValue:item.answer?.value,type:item.type,unit:item.answer?.unit||"",tolerance:Number(item.answer?.tolerance)||0};
     });
-    const subject={id:CHEMISTRY_SUBJECT_ID,name:"GCSE AQA Chemistry Higher",shortName:"AQA Chemistry",strands,strandOrder,strandLabels,strandTitleNames,strandIcons,topics,questions};
+    const subject={id:CHEMISTRY_SUBJECT_ID,name:"Chemistry",shortName:"Chemistry",strands,strandOrder,strandLabels,strandTitleNames,strandIcons,topics,questions};
     const existing=SUBJECTS.findIndex(item=>item.id===CHEMISTRY_SUBJECT_ID);
     if(existing>=0) SUBJECTS[existing]=subject; else SUBJECTS.push(subject);
     if(savedSubjectId===CHEMISTRY_SUBJECT_ID) currentSubjectId=CHEMISTRY_SUBJECT_ID;

@@ -7903,7 +7903,7 @@
   "marks": 3,
   "command": "Calculate",
   "type": "numeric",
-  "stem": "A runner has a mass of 750 g and runs at 36 km/h. Calculate the runner's kinetic energy. Convert the values to SI units before using the equation.",
+  "stem": "A runner has a mass of 750 g and runs at 36 km/h. Calculate the runner's kinetic energy.",
   "given": {
    "m": "750 g",
    "v": "36 km/h"
@@ -7942,7 +7942,7 @@
   "marks": 3,
   "command": "Calculate",
   "type": "numeric",
-  "stem": "A 1.2 kg parcel is lifted through a height of 250 cm. Calculate its gain in gravitational potential energy. Use g = 9.8 N/kg and convert the height to metres.",
+  "stem": "A 1.2 kg parcel is lifted through a height of 250 cm. Calculate its gain in gravitational potential energy. Use g = 9.8 N/kg.",
   "given": {
    "m": 1.2,
    "h": "250 cm",
@@ -7982,7 +7982,7 @@
   "marks": 3,
   "command": "Calculate",
   "type": "numeric",
-  "stem": "A spring with a spring constant of 320 N/m is compressed by 45 mm. Calculate the elastic potential energy stored. Convert the compression to metres.",
+  "stem": "A spring with a spring constant of 320 N/m is compressed by 45 mm. Calculate the elastic potential energy stored.",
   "given": {
    "k": 320,
    "e": "45 mm"
@@ -8126,7 +8126,7 @@
   "marks": 3,
   "command": "Calculate",
   "type": "numeric",
-  "stem": "A 250 g copper block is heated from 20 °C to 65 °C. The specific heat capacity of copper is 390 J/kg °C. Calculate the energy transferred to the block. Convert the mass to kilograms.",
+  "stem": "A 250 g copper block is heated from 20 °C to 65 °C. The specific heat capacity of copper is 390 J/kg °C. Calculate the energy transferred to the block.",
   "equation": "ΔE = m c Δθ",
   "expr": "m*c*dtheta",
   "answer": {
@@ -8161,7 +8161,7 @@
   "marks": 3,
   "command": "Calculate",
   "type": "numeric",
-  "stem": "A 1.5 kW heater transfers energy for 4.0 minutes. Calculate the energy transferred in joules. Convert the power to watts and the time to seconds.",
+  "stem": "A 1.5 kW heater transfers energy for 4.0 minutes. Calculate the energy transferred in joules.",
   "equation": "E = P t",
   "expr": "P*t",
   "answer": {
@@ -8196,7 +8196,7 @@
   "marks": 3,
   "command": "Calculate",
   "type": "numeric",
-  "stem": "A motor takes in 0.80 kW of power and transfers 560 W usefully. Calculate its efficiency as a percentage. Convert the input power to watts.",
+  "stem": "A motor takes in 0.80 kW of power and transfers 560 W usefully. Calculate its efficiency as a percentage.",
   "equation": "efficiency = useful power / input power",
   "expr": "560/800",
   "answer": {
